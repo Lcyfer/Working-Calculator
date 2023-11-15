@@ -40,7 +40,7 @@ input[type=button]{
     display:flex;
     position: absolute;
     top: 170px;
-    right:40px;
+    right: 40px;
     width: 50px;
     flex-direction: column;
 }
@@ -82,7 +82,7 @@ input[type=button]{
   }
   .g{
     top:166px;
-    right:40px;
+    right: 40px;
   }
 .b input[type=button]{
     right:15px; }
