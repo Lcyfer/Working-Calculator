@@ -49,7 +49,6 @@ input[type=button]{
     background-color: rgb(236, 11, 142);
     outline: none;
     cursor: pointer;
-    content-align:end;
 }
 
 .a input[type=button]{
