@@ -70,3 +70,24 @@ input[type=button]{
    margin: 0px;
    padding: 0px;
 }
+@media(max-width:768px){
+  form{
+    height: 550px;
+    width:300px ;
+  }
+  input[type=button]{
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    margin: 2px;
+  }
+  .g{
+    top:166px;
+  }
+.b input[type=button]{
+    right:15px; }
+  input[type=text]{
+    width: 300px;
+  }
+  
+}
